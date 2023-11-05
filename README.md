@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+#  1. Mean and variance of a discrete  distribution
 
 ## DEVELOPED BY : PRAVEEN S
 
