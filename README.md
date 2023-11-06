@@ -1,8 +1,5 @@
 #  1. Mean and variance of a discrete  distribution
 
-## DEVELOPED BY : PRAVEEN S
-
-### REG NO :212222240078
 
 # Aim : 
 
@@ -52,7 +49,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
+DEVELOPED BY : PRAVEEN S
 
+REG NO: 212222240078
 
 ```
 import numpy as np
